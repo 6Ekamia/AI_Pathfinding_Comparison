@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 4818283481072808221}
   - component: {fileID: 3858347310916427131}
   - component: {fileID: 8857273442454241245}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: ObstacleSimple (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -109,7 +109,7 @@ GameObject:
   - component: {fileID: 2951259564941531162}
   - component: {fileID: 2951259564941531163}
   - component: {fileID: 2951259564941531164}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: ObstacleSimple
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -203,7 +203,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 6228679490585373444}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: ObstacleComplex
   m_TagString: Untagged
   m_Icon: {fileID: 0}
